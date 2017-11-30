@@ -1,4 +1,4 @@
-# Happy-Numbers 
+# Happy-Numbers - Status Finished -
 
 A happy number is the one that the last digit of the sum of the square of its digits is 1
 
