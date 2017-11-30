@@ -2,6 +2,8 @@
 
 A happy number is the one that the last digit of the sum of the square of its digits is 1
 
+The number to evaluate can be as big as the universe!
+
 A Fault-Tolerant Computing practice
 
 Universidad de Guadalajara
